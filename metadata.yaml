@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Medical Jurisprudence, Forensic medicine and Toxicology  - vol 1 of 4
 url: http://www.gutenberg.org/ebooks/49027
